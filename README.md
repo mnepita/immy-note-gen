@@ -1,4 +1,4 @@
-# immy Notes Generatos
+# Notes Generatos
 
 ## Stack
 - Boostrap
